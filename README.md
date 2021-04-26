@@ -1,5 +1,5 @@
-# animated-guacamole
-The first homework.
+# The first homework.
+
 CC2530无线网络通讯模块
 -------------------------
 此代码运行环境：IAR
