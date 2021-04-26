@@ -13,4 +13,6 @@ see my home(https://github.com/mad1aunt?tab=repositories)
 
 see documentation [here](another.md)
 
+a picture I took(屏幕截图(10).png)
+
 This's the game I favourite(https://gimg2.baidu.com/image_search/src=http%3A%2F%2F00imgmini.eastday.com%2Fmobile%2F20181006%2F20181006121543_f85126de3a978dccba300e136e89543c_1.jpeg&refer=http%3A%2F%2F00imgmini.eastday.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1622023624&t=f10e91db86bb260a19105f06d0371426)
