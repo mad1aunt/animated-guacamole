@@ -17,3 +17,9 @@ a picture I took ![image](image/NSX-RGT.png)
 
 This's the game I favourite 
 ![image](https://gimg2.baidu.com/image_search/src=http%3A%2F%2F00imgmini.eastday.com%2Fmobile%2F20181006%2F20181006121543_f85126de3a978dccba300e136e89543c_1.jpeg&refer=http%3A%2F%2F00imgmini.eastday.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1622023624&t=f10e91db86bb260a19105f06d0371426)
+
+* cc2530功率选择
+    >-20dBm
+    >-3dBm
+    >0dBm
+    >4dBm
